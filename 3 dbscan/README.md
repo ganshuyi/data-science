@@ -19,7 +19,8 @@ The following is a detailed rundown of how the DBSCAN algorithm works:
 3. An object which was not visited before in the previous steps is chosen by random, and step 2 is repeated.
 4. The algorithm terminates when all objects are visited.
 
-<br/><br/>
+<br/>
+
 ## **Compilation Method**
 
 The DBSCAN algorithm is implemented in **Linux Ubuntu 20.04** environment. A Makefile is provided for compiling convenience.

@@ -11,7 +11,7 @@ The following is the rundown of how the Apriori algorithm works:
 3. Repeat until no candidate itemset that satisfies the minimum threshold can be found.
 
 After obtaining the frequent itemset which satisfies the minimum support, the program generates association rules **X → Y**, which is an implication of two itemset, for which there is a direct relationship between the specific items in these sets. For that, the support and confidence of each rule has to be computed. All the possible association rules and their respective value of support and confidence are inserted into a tuple format, to be returned as the output of the program.
-<br/><br/>
+<br/>
 
 **Note:** <br/>
 > Support and confidence can be computed with the following formulas: <br/>

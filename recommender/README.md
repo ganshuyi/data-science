@@ -15,7 +15,7 @@ To predict the rating **R** that an active user **A** would very likely give to 
 
 A **rating matrix** is implemented to store the information of each user-item pair. Each entry represents the rating for a movie **M** given by a user **A**. In this implementation, **cosine similarity** is used as the metric to compute the similarity between two movies. Mathematically, it measures the cosine of the angle between two vectors projected in a multi-dimensional space. The output value ranges from 0 to 1—0 means both vectors are dissimilar whereas 1 means both vectors are identical.
 
-<br/><br/>
+<br/>
 
 ## **Compilation Method**
 
