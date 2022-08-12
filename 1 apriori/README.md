@@ -15,8 +15,8 @@ After obtaining the frequent itemset which satisfies the minimum support, the pr
 
 **Note:** <br/>
 > Support and confidence can be computed with the following formulas: <br/>
-    >- Support (A) = Transactions(A) / Total Transactions * 100
-    >- Confidence (A → B) = Probability (A & B) / Support (A)
+>- Support (A) = Transactions(A) / Total Transactions * 100
+>- Confidence (A → B) = Probability (A & B) / Support (A)
 
 <br/>
 
